@@ -1,0 +1,1571 @@
+{
+    "manifest_version": "1.0.21",
+    "title": "Future insure",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/template-kit.evonicmedia.com\/layout54",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Team",
+            "screenshot": "screenshots\/team.jpg",
+            "source": "templates\/team.json",
+            "preview_url": "https:\/\/template-kit.evonicmedia.com\/layout54\/template-kit\/team\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Footer",
+            "screenshot": "screenshots\/footer.jpg",
+            "source": "templates\/footer.json",
+            "preview_url": "https:\/\/template-kit.evonicmedia.com\/layout54\/template-kit\/footer\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Header",
+            "screenshot": "screenshots\/header.jpg",
+            "source": "templates\/header.json",
+            "preview_url": "https:\/\/template-kit.evonicmedia.com\/layout54\/template-kit\/header\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Coming soon",
+            "screenshot": "screenshots\/coming-soon.jpg",
+            "source": "templates\/coming-soon.json",
+            "preview_url": "https:\/\/template-kit.evonicmedia.com\/layout54\/template-kit\/coming-soon\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "404",
+            "screenshot": "screenshots\/404.jpg",
+            "source": "templates\/404.json",
+            "preview_url": "https:\/\/template-kit.evonicmedia.com\/layout54\/template-kit\/404\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-404",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Faq",
+            "screenshot": "screenshots\/faq.jpg",
+            "source": "templates\/faq.json",
+            "preview_url": "https:\/\/template-kit.evonicmedia.com\/layout54\/template-kit\/faq\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Blog details",
+            "screenshot": "screenshots\/blog-details.jpg",
+            "source": "templates\/blog-details.json",
+            "preview_url": "https:\/\/template-kit.evonicmedia.com\/layout54\/template-kit\/blog-details\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Blogs",
+            "screenshot": "screenshots\/blogs.jpg",
+            "source": "templates\/blogs.json",
+            "preview_url": "https:\/\/template-kit.evonicmedia.com\/layout54\/template-kit\/blogs\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Case studies details",
+            "screenshot": "screenshots\/case-studies-details.jpg",
+            "source": "templates\/case-studies-details.json",
+            "preview_url": "https:\/\/template-kit.evonicmedia.com\/layout54\/template-kit\/case-studies-details\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Case Studies",
+            "screenshot": "screenshots\/case-studies.jpg",
+            "source": "templates\/case-studies.json",
+            "preview_url": "https:\/\/template-kit.evonicmedia.com\/layout54\/template-kit\/case-studies\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Pricing",
+            "screenshot": "screenshots\/pricing.jpg",
+            "source": "templates\/pricing.json",
+            "preview_url": "https:\/\/template-kit.evonicmedia.com\/layout54\/template-kit\/pricing\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact Us",
+            "screenshot": "screenshots\/contact-us.jpg",
+            "source": "templates\/contact-us.json",
+            "preview_url": "https:\/\/template-kit.evonicmedia.com\/layout54\/template-kit\/contact-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Services",
+            "screenshot": "screenshots\/services.jpg",
+            "source": "templates\/services.json",
+            "preview_url": "https:\/\/template-kit.evonicmedia.com\/layout54\/template-kit\/services\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home",
+            "screenshot": "screenshots\/home.jpg",
+            "source": "templates\/home.json",
+            "preview_url": "https:\/\/template-kit.evonicmedia.com\/layout54\/template-kit\/home\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About us",
+            "screenshot": "screenshots\/about-us.jpg",
+            "source": "templates\/about-us.json",
+            "preview_url": "https:\/\/template-kit.evonicmedia.com\/layout54\/template-kit\/about-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Question Form",
+            "screenshot": "screenshots\/question-form.jpg",
+            "source": "templates\/question-form.json",
+            "preview_url": "https:\/\/template-kit.evonicmedia.com\/layout54\/template-kit\/question-form\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-cta",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Message form",
+            "screenshot": "screenshots\/message-form.jpg",
+            "source": "templates\/message-form.json",
+            "preview_url": "https:\/\/template-kit.evonicmedia.com\/layout54\/template-kit\/message-form\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-cta",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact form",
+            "screenshot": "screenshots\/contact-form.jpg",
+            "source": "templates\/contact-form.json",
+            "preview_url": "https:\/\/template-kit.evonicmedia.com\/layout54\/template-kit\/contact-form\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-cta",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Registration form",
+            "screenshot": "screenshots\/registration-form.jpg",
+            "source": "templates\/registration-form.json",
+            "preview_url": "https:\/\/template-kit.evonicmedia.com\/layout54\/template-kit\/registration-form\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-cta",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Insurance form",
+            "screenshot": "screenshots\/insurance-form.jpg",
+            "source": "templates\/insurance-form.json",
+            "preview_url": "https:\/\/template-kit.evonicmedia.com\/layout54\/template-kit\/insurance-form\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-cta",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor",
+            "version": "3.18.3",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "Jeg Elementor Kit",
+            "version": "2.6.2",
+            "file": "jeg-elementor-kit\/jeg-elementor-kit.php",
+            "author": "Jegtheme"
+        },
+        {
+            "name": "MetForm",
+            "version": "3.8.2",
+            "file": "metform\/metform.php",
+            "author": "Wpmet"
+        }
+    ],
+    "images": [
+        {
+            "filename": "family-insurance-arab-parents-making-roof-symbol-2022-12-16-06-47-23-utc-2-1.jpg",
+            "thumbnail_url": "https:\/\/template-kit.evonicmedia.com\/layout54\/wp-content\/uploads\/2023\/12\/family-insurance-arab-parents-making-roof-symbol-2022-12-16-06-47-23-utc-2-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "Faq"
+                },
+                {
+                    "source": "templates\/blog-details.json",
+                    "name": "Blog details"
+                },
+                {
+                    "source": "templates\/blogs.json",
+                    "name": "Blogs"
+                },
+                {
+                    "source": "templates\/case-studies-details.json",
+                    "name": "Case studies details"
+                },
+                {
+                    "source": "templates\/case-studies.json",
+                    "name": "Case Studies"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                }
+            ],
+            "filesize": 43130,
+            "dimensions": [
+                1920,
+                391
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/young-family-JH4AND7"
+        },
+        {
+            "filename": "Frame-1000002638-2.jpg",
+            "thumbnail_url": "https:\/\/template-kit.evonicmedia.com\/layout54\/wp-content\/uploads\/2023\/12\/Frame-1000002638-2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 92665,
+            "dimensions": [
+                245,
+                323
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/confident-young-man-with-trendy-casual-wear-lookin-BBXLHXP"
+        },
+        {
+            "filename": "mobile-agent-2021-09-24-03-31-56-utc-1-1.jpg",
+            "thumbnail_url": "https:\/\/template-kit.evonicmedia.com\/layout54\/wp-content\/uploads\/2023\/12\/mobile-agent-2021-09-24-03-31-56-utc-1-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 92452,
+            "dimensions": [
+                245,
+                323
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/mobile-agent-ZZKM9TL"
+        },
+        {
+            "filename": "Frame-1000002638.jpg",
+            "thumbnail_url": "https:\/\/template-kit.evonicmedia.com\/layout54\/wp-content\/uploads\/2023\/12\/Frame-1000002638.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 67053,
+            "dimensions": [
+                245,
+                323
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/owner-of-cafe-GVENT36"
+        },
+        {
+            "filename": "Frame-1000002638-1.jpg",
+            "thumbnail_url": "https:\/\/template-kit.evonicmedia.com\/layout54\/wp-content\/uploads\/2023\/12\/Frame-1000002638-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 71026,
+            "dimensions": [
+                245,
+                323
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/real-estate-investors-insurance-purchase-and-maint-YUJDJFJ"
+        },
+        {
+            "filename": "Frame-1000002638-3.jpg",
+            "thumbnail_url": "https:\/\/template-kit.evonicmedia.com\/layout54\/wp-content\/uploads\/2023\/12\/Frame-1000002638-3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 61200,
+            "dimensions": [
+                245,
+                323
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/happy-queer-person-in-glasses-23G8YE6"
+        },
+        {
+            "filename": "mobile-agent-2021-09-24-03-31-56-utc-1-1-1.jpg",
+            "thumbnail_url": "https:\/\/template-kit.evonicmedia.com\/layout54\/wp-content\/uploads\/2023\/12\/mobile-agent-2021-09-24-03-31-56-utc-1-1-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 79350,
+            "dimensions": [
+                245,
+                323
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/businessman-checks-email-or-updates-profile-on-dig-8RN5BM4"
+        },
+        {
+            "filename": "Group-16-1.png",
+            "thumbnail_url": "https:\/\/template-kit.evonicmedia.com\/layout54\/wp-content\/uploads\/2023\/12\/Group-16-1.png",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                },
+                {
+                    "source": "templates\/header.json",
+                    "name": "Header"
+                }
+            ],
+            "filesize": 6715,
+            "dimensions": [
+                263,
+                106
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Rectangle-358-2-1.jpg",
+            "thumbnail_url": "https:\/\/template-kit.evonicmedia.com\/layout54\/wp-content\/uploads\/2023\/12\/Rectangle-358-2-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/coming-soon.json",
+                    "name": "Coming soon"
+                }
+            ],
+            "filesize": 122001,
+            "dimensions": [
+                1920,
+                1080
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/young-asian-family-are-happy-together-at-home-by-l-S93V28F"
+        },
+        {
+            "filename": "Error-3-1.jpg",
+            "thumbnail_url": "https:\/\/template-kit.evonicmedia.com\/layout54\/wp-content\/uploads\/2024\/01\/Error-3-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/404.json",
+                    "name": "404"
+                }
+            ],
+            "filesize": 190504,
+            "dimensions": [
+                1920,
+                1080
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/cheerful-family-resting-at-the-motorhome-camping-66YKNGB"
+        },
+        {
+            "filename": "Rectangle-489.jpg",
+            "thumbnail_url": "https:\/\/template-kit.evonicmedia.com\/layout54\/wp-content\/uploads\/2023\/12\/Rectangle-489.jpg",
+            "templates": [
+                {
+                    "source": "templates\/faq.json",
+                    "name": "Faq"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 78195,
+            "dimensions": [
+                210,
+                341
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/young-couple-in-orange-clothes-with-dog-QSA6QRZ"
+        },
+        {
+            "filename": "Rectangle-490.jpg",
+            "thumbnail_url": "https:\/\/template-kit.evonicmedia.com\/layout54\/wp-content\/uploads\/2023\/12\/Rectangle-490.jpg",
+            "templates": [
+                {
+                    "source": "templates\/faq.json",
+                    "name": "Faq"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 39126,
+            "dimensions": [
+                210,
+                135
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/happy-family-having-fun-time-at-home-PHZ46QW"
+        },
+        {
+            "filename": "Rectangle-487.jpg",
+            "thumbnail_url": "https:\/\/template-kit.evonicmedia.com\/layout54\/wp-content\/uploads\/2023\/12\/Rectangle-487.jpg",
+            "templates": [
+                {
+                    "source": "templates\/faq.json",
+                    "name": "Faq"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 156181,
+            "dimensions": [
+                270,
+                496
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/happy-family-with-little-son-on-a-hiking-trip-in-a-84TWVKJ"
+        },
+        {
+            "filename": "Rectangle-795-1.jpg",
+            "thumbnail_url": "https:\/\/template-kit.evonicmedia.com\/layout54\/wp-content\/uploads\/2023\/12\/Rectangle-795-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/faq.json",
+                    "name": "Faq"
+                }
+            ],
+            "filesize": 206020,
+            "dimensions": [
+                470,
+                506
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/any-questions-shot-of-a-mature-businesswoman-sitti-BQKGHCK"
+        },
+        {
+            "filename": "Rectangle-773-6.jpg",
+            "thumbnail_url": "https:\/\/template-kit.evonicmedia.com\/layout54\/wp-content\/uploads\/2023\/12\/Rectangle-773-6.jpg",
+            "templates": [
+                {
+                    "source": "templates\/blog-details.json",
+                    "name": "Blog details"
+                }
+            ],
+            "filesize": 240774,
+            "dimensions": [
+                1170,
+                400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/insurance-agent-services-6668AMT"
+        },
+        {
+            "filename": "Rectangle-773-5.jpg",
+            "thumbnail_url": "https:\/\/template-kit.evonicmedia.com\/layout54\/wp-content\/uploads\/2023\/12\/Rectangle-773-5.jpg",
+            "templates": [
+                {
+                    "source": "templates\/case-studies-details.json",
+                    "name": "Case studies details"
+                }
+            ],
+            "filesize": 323623,
+            "dimensions": [
+                1170,
+                400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/man-shaking-hands-with-insurance-agent-3EMRYC9"
+        },
+        {
+            "filename": "blog-3-4.jpg",
+            "thumbnail_url": "https:\/\/template-kit.evonicmedia.com\/layout54\/wp-content\/uploads\/2023\/12\/blog-3-4.jpg",
+            "templates": [
+                {
+                    "source": "templates\/case-studies.json",
+                    "name": "Case Studies"
+                }
+            ],
+            "filesize": 245186,
+            "dimensions": [
+                560,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/property-insurance-agent-consulting-customer-2AJXRBJ"
+        },
+        {
+            "filename": "blog-3-3.jpg",
+            "thumbnail_url": "https:\/\/template-kit.evonicmedia.com\/layout54\/wp-content\/uploads\/2023\/12\/blog-3-3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/case-studies.json",
+                    "name": "Case Studies"
+                }
+            ],
+            "filesize": 189637,
+            "dimensions": [
+                560,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/insurance-and-sales-Y769PSY"
+        },
+        {
+            "filename": "blog-3-6.jpg",
+            "thumbnail_url": "https:\/\/template-kit.evonicmedia.com\/layout54\/wp-content\/uploads\/2023\/12\/blog-3-6.jpg",
+            "templates": [
+                {
+                    "source": "templates\/case-studies.json",
+                    "name": "Case Studies"
+                }
+            ],
+            "filesize": 121663,
+            "dimensions": [
+                370,
+                350
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/buying-a-home-or-insurance-deal-K34YZMX"
+        },
+        {
+            "filename": "blog-1-5.jpg",
+            "thumbnail_url": "https:\/\/template-kit.evonicmedia.com\/layout54\/wp-content\/uploads\/2023\/12\/blog-1-5.jpg",
+            "templates": [
+                {
+                    "source": "templates\/case-studies.json",
+                    "name": "Case Studies"
+                }
+            ],
+            "filesize": 151332,
+            "dimensions": [
+                370,
+                350
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/man-shaking-hands-with-insurance-agent-3EMRYC9"
+        },
+        {
+            "filename": "blog-2-3.jpg",
+            "thumbnail_url": "https:\/\/template-kit.evonicmedia.com\/layout54\/wp-content\/uploads\/2023\/12\/blog-2-3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/case-studies.json",
+                    "name": "Case Studies"
+                }
+            ],
+            "filesize": 137752,
+            "dimensions": [
+                370,
+                350
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/insurance-and-sales-2J6PULG"
+        },
+        {
+            "filename": "money-insurance-1.png",
+            "thumbnail_url": "https:\/\/template-kit.evonicmedia.com\/layout54\/wp-content\/uploads\/2023\/12\/money-insurance-1.png",
+            "templates": [
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 3178,
+            "dimensions": [
+                70,
+                70
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/insurance-icon-pack-Q7EH5VV"
+        },
+        {
+            "filename": "health-insurance-1.png",
+            "thumbnail_url": "https:\/\/template-kit.evonicmedia.com\/layout54\/wp-content\/uploads\/2023\/12\/health-insurance-1.png",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 1734,
+            "dimensions": [
+                71,
+                70
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/insurance-icon-pack-Q7EH5VV"
+        },
+        {
+            "filename": "family-insurance.png",
+            "thumbnail_url": "https:\/\/template-kit.evonicmedia.com\/layout54\/wp-content\/uploads\/2023\/12\/family-insurance.png",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 2293,
+            "dimensions": [
+                70,
+                71
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/insurance-icon-pack-Q7EH5VV"
+        },
+        {
+            "filename": "car-insurance.png",
+            "thumbnail_url": "https:\/\/template-kit.evonicmedia.com\/layout54\/wp-content\/uploads\/2023\/12\/car-insurance.png",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 1845,
+            "dimensions": [
+                70,
+                71
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/insurance-icon-pack-Q7EH5VV"
+        },
+        {
+            "filename": "travel-insurance.png",
+            "thumbnail_url": "https:\/\/template-kit.evonicmedia.com\/layout54\/wp-content\/uploads\/2023\/12\/travel-insurance.png",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 2069,
+            "dimensions": [
+                70,
+                71
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/insurance-icon-pack-Q7EH5VV"
+        },
+        {
+            "filename": "home-insurance.png",
+            "thumbnail_url": "https:\/\/template-kit.evonicmedia.com\/layout54\/wp-content\/uploads\/2023\/12\/home-insurance.png",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 1918,
+            "dimensions": [
+                70,
+                71
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/insurance-icon-pack-Q7EH5VV"
+        },
+        {
+            "filename": "Frame-1000002756-1.png",
+            "thumbnail_url": "https:\/\/template-kit.evonicmedia.com\/layout54\/wp-content\/uploads\/2023\/12\/Frame-1000002756-1.png",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 13372,
+            "dimensions": [
+                251,
+                191
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "header-image-1-1-1.png",
+            "thumbnail_url": "https:\/\/template-kit.evonicmedia.com\/layout54\/wp-content\/uploads\/2023\/12\/header-image-1-1-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 68334,
+            "dimensions": [
+                666,
+                459
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/parents-with-daughter-holding-white-roof-over-head-NK42EHY"
+        },
+        {
+            "filename": "Group-20.png",
+            "thumbnail_url": "https:\/\/template-kit.evonicmedia.com\/layout54\/wp-content\/uploads\/2023\/12\/Group-20.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 2611,
+            "dimensions": [
+                439,
+                293
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "28-Copay.png",
+            "thumbnail_url": "https:\/\/template-kit.evonicmedia.com\/layout54\/wp-content\/uploads\/2023\/12\/28-Copay.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 4979,
+            "dimensions": [
+                87,
+                87
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/3d-insurance-icons-TF7HVDZ"
+        },
+        {
+            "filename": "8-Social-Insurance.png",
+            "thumbnail_url": "https:\/\/template-kit.evonicmedia.com\/layout54\/wp-content\/uploads\/2023\/12\/8-Social-Insurance.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 8342,
+            "dimensions": [
+                88,
+                88
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/3d-insurance-icons-TF7HVDZ"
+        },
+        {
+            "filename": "7-Disabillity-Insurance.png",
+            "thumbnail_url": "https:\/\/template-kit.evonicmedia.com\/layout54\/wp-content\/uploads\/2023\/12\/7-Disabillity-Insurance.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 7048,
+            "dimensions": [
+                88,
+                88
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/3d-insurance-icons-TF7HVDZ"
+        },
+        {
+            "filename": "Group-22.png",
+            "thumbnail_url": "https:\/\/template-kit.evonicmedia.com\/layout54\/wp-content\/uploads\/2023\/12\/Group-22.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 3412,
+            "dimensions": [
+                532,
+                363
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Group-23.png",
+            "thumbnail_url": "https:\/\/template-kit.evonicmedia.com\/layout54\/wp-content\/uploads\/2023\/12\/Group-23.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 4850,
+            "dimensions": [
+                302,
+                315
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Frame-1000002756.png",
+            "thumbnail_url": "https:\/\/template-kit.evonicmedia.com\/layout54\/wp-content\/uploads\/2023\/12\/Frame-1000002756.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 29762,
+            "dimensions": [
+                509,
+                389
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Group-1000002807.png",
+            "thumbnail_url": "https:\/\/template-kit.evonicmedia.com\/layout54\/wp-content\/uploads\/2023\/12\/Group-1000002807.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 1546,
+            "dimensions": [
+                34,
+                39
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Group-1000002808.png",
+            "thumbnail_url": "https:\/\/template-kit.evonicmedia.com\/layout54\/wp-content\/uploads\/2023\/12\/Group-1000002808.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 1483,
+            "dimensions": [
+                29,
+                39
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Vector-7.png",
+            "thumbnail_url": "https:\/\/template-kit.evonicmedia.com\/layout54\/wp-content\/uploads\/2023\/12\/Vector-7.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 1178,
+            "dimensions": [
+                34,
+                30
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Logo-5.png",
+            "thumbnail_url": "https:\/\/template-kit.evonicmedia.com\/layout54\/wp-content\/uploads\/2023\/12\/Logo-5.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                }
+            ],
+            "filesize": 2324,
+            "dimensions": [
+                151,
+                38
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Group-848-3.png",
+            "thumbnail_url": "https:\/\/template-kit.evonicmedia.com\/layout54\/wp-content\/uploads\/2023\/12\/Group-848-3.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                }
+            ],
+            "filesize": 1328,
+            "dimensions": [
+                102,
+                24
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Logo-6.png",
+            "thumbnail_url": "https:\/\/template-kit.evonicmedia.com\/layout54\/wp-content\/uploads\/2023\/12\/Logo-6.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                }
+            ],
+            "filesize": 2206,
+            "dimensions": [
+                166,
+                33
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Group-770-2.png",
+            "thumbnail_url": "https:\/\/template-kit.evonicmedia.com\/layout54\/wp-content\/uploads\/2023\/12\/Group-770-2.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                }
+            ],
+            "filesize": 2612,
+            "dimensions": [
+                163,
+                33
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Group-846-2.png",
+            "thumbnail_url": "https:\/\/template-kit.evonicmedia.com\/layout54\/wp-content\/uploads\/2023\/12\/Group-846-2.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                }
+            ],
+            "filesize": 2154,
+            "dimensions": [
+                168,
+                38
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Icon.png",
+            "thumbnail_url": "https:\/\/template-kit.evonicmedia.com\/layout54\/wp-content\/uploads\/2023\/12\/Icon.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                }
+            ],
+            "filesize": 2611,
+            "dimensions": [
+                54,
+                55
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/teamwork-icon-pack-8HQSG9Z"
+        },
+        {
+            "filename": "Group-1000002804.png",
+            "thumbnail_url": "https:\/\/template-kit.evonicmedia.com\/layout54\/wp-content\/uploads\/2023\/12\/Group-1000002804.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                }
+            ],
+            "filesize": 1864,
+            "dimensions": [
+                39,
+                55
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/teamwork-icon-pack-8HQSG9Z"
+        },
+        {
+            "filename": "Group-1000002806.png",
+            "thumbnail_url": "https:\/\/template-kit.evonicmedia.com\/layout54\/wp-content\/uploads\/2023\/12\/Group-1000002806.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                }
+            ],
+            "filesize": 2666,
+            "dimensions": [
+                54,
+                55
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/teamwork-icon-pack-8HQSG9Z"
+        },
+        {
+            "filename": "Vector-8.png",
+            "thumbnail_url": "https:\/\/template-kit.evonicmedia.com\/layout54\/wp-content\/uploads\/2023\/12\/Vector-8.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 7173,
+            "dimensions": [
+                563,
+                393
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Design-Element.png",
+            "thumbnail_url": "https:\/\/template-kit.evonicmedia.com\/layout54\/wp-content\/uploads\/2023\/12\/Design-Element.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                }
+            ],
+            "filesize": 3971,
+            "dimensions": [
+                502,
+                411
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "portrait-of-happy-arab-guy-reading-insurance-docum-2022-12-16-07-31-29-utc-2.jpg",
+            "thumbnail_url": "https:\/\/template-kit.evonicmedia.com\/layout54\/wp-content\/uploads\/2023\/12\/portrait-of-happy-arab-guy-reading-insurance-docum-2022-12-16-07-31-29-utc-2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 103171,
+            "dimensions": [
+                273,
+                401
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/insurance-agent-talking-to-mid-adult-couple-on-a-m-344CDHB"
+        },
+        {
+            "filename": "portrait-of-happy-arab-guy-reading-insurance-docum-2022-12-16-07-31-29-utc-3.jpg",
+            "thumbnail_url": "https:\/\/template-kit.evonicmedia.com\/layout54\/wp-content\/uploads\/2023\/12\/portrait-of-happy-arab-guy-reading-insurance-docum-2022-12-16-07-31-29-utc-3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 94074,
+            "dimensions": [
+                273,
+                400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/insurance-agent-pointing-at-clipboard-in-clients-h-MTR3KTA"
+        },
+        {
+            "filename": "Frame-1000002627.jpg",
+            "thumbnail_url": "https:\/\/template-kit.evonicmedia.com\/layout54\/wp-content\/uploads\/2023\/12\/Frame-1000002627.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                }
+            ],
+            "filesize": 208731,
+            "dimensions": [
+                494,
+                402
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/happy-insurance-agents-rejoicing-great-deal-in-off-XBL9CHS"
+        },
+        {
+            "filename": "Rectangle-485-1.jpg",
+            "thumbnail_url": "https:\/\/template-kit.evonicmedia.com\/layout54\/wp-content\/uploads\/2023\/12\/Rectangle-485-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 75055,
+            "dimensions": [
+                570,
+                806
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/happy-family-in-a-park-EZ9T4Y4"
+        },
+        {
+            "filename": "img-5-1-1.jpg",
+            "thumbnail_url": "https:\/\/template-kit.evonicmedia.com\/layout54\/wp-content\/uploads\/2023\/12\/img-5-1-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 33557,
+            "dimensions": [
+                177,
+                177
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/handsome-persian-man-with-gray-hair-wearing-jacket-YY43JXY"
+        },
+        {
+            "filename": "Rectangle-499-1.jpg",
+            "thumbnail_url": "https:\/\/template-kit.evonicmedia.com\/layout54\/wp-content\/uploads\/2023\/12\/Rectangle-499-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 91814,
+            "dimensions": [
+                1920,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/insurance-agent-talking-to-mid-adult-couple-on-a-m-344CDHB"
+        },
+        {
+            "filename": "Vector-9.png",
+            "thumbnail_url": "https:\/\/template-kit.evonicmedia.com\/layout54\/wp-content\/uploads\/2023\/12\/Vector-9.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                }
+            ],
+            "filesize": 24159,
+            "dimensions": [
+                571,
+                400
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Rectangle-509.jpg",
+            "thumbnail_url": "https:\/\/template-kit.evonicmedia.com\/layout54\/wp-content\/uploads\/2023\/12\/Rectangle-509.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                }
+            ],
+            "filesize": 92897,
+            "dimensions": [
+                270,
+                175
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/two-families-with-kids-sitting-on-front-stoops-P86Z5GU"
+        },
+        {
+            "filename": "Rectangle-508.jpg",
+            "thumbnail_url": "https:\/\/template-kit.evonicmedia.com\/layout54\/wp-content\/uploads\/2023\/12\/Rectangle-508.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                }
+            ],
+            "filesize": 156799,
+            "dimensions": [
+                270,
+                307
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/family-ties-a-portrait-of-a-multi-generational-fam-X8B7GBT"
+        },
+        {
+            "filename": "Rectangle-503.jpg",
+            "thumbnail_url": "https:\/\/template-kit.evonicmedia.com\/layout54\/wp-content\/uploads\/2023\/12\/Rectangle-503.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                }
+            ],
+            "filesize": 219865,
+            "dimensions": [
+                270,
+                704
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/happy-young-family-V3UF2QD"
+        },
+        {
+            "filename": "Rectangle-503-2.jpg",
+            "thumbnail_url": "https:\/\/template-kit.evonicmedia.com\/layout54\/wp-content\/uploads\/2023\/12\/Rectangle-503-2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                }
+            ],
+            "filesize": 181147,
+            "dimensions": [
+                570,
+                250
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/happy-family-SMXX4YG"
+        },
+        {
+            "filename": "Rectangle-505-1.jpg",
+            "thumbnail_url": "https:\/\/template-kit.evonicmedia.com\/layout54\/wp-content\/uploads\/2023\/12\/Rectangle-505-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                }
+            ],
+            "filesize": 175110,
+            "dimensions": [
+                570,
+                250
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/theyre-one-happy-family-portrait-of-a-happy-young--MW8X86M"
+        },
+        {
+            "filename": "Rectangle-506-1.jpg",
+            "thumbnail_url": "https:\/\/template-kit.evonicmedia.com\/layout54\/wp-content\/uploads\/2023\/12\/Rectangle-506-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                }
+            ],
+            "filesize": 100617,
+            "dimensions": [
+                1920,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/happy-family-with-two-kids-hugging-and-smiling-at--DQEQFJL"
+        }
+    ]
+}
